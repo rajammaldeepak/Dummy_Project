@@ -1,0 +1,7 @@
+i
+#ignore files
+second_venv/
+docs/build/
+docs/source/_template/
+
+
